@@ -1,0 +1,14 @@
+{
+  "name": "@fastify-web/boilerplate",
+  "private": true,
+  "workspaces": [
+    "app"
+  ],
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/node": "20",
+    "typescript": "^5.7.3",
+    "vite": "^6.1.0"
+  },
+  "packageManager": "yarn@4.6.0"
+}
